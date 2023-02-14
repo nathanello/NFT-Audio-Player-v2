@@ -1,0 +1,49 @@
+<html>
+	<head>
+		<title>ElloXo: Treat Me Right</title>
+		<style>
+			body {
+				margin: 0px;
+				background-color: #000;
+				/*background-image: url("M_Background_02.gif");*/
+				background-size: cover;
+				background-position: center, center;
+			}
+			#player {
+				aspect-ratio: 1/1;
+				height: 75vh;
+				background-image: url("Test_Cover_1.png");
+				background-size: contain;
+				filter: contrast(120%) brightness(110%) saturate(110%);
+				left: 50%;
+    			position: absolute;
+   				top: 50%;
+    			transform: translate(-50%, -50%);
+    			border-radius: 5px;
+			}
+			/*adding style to cd*/
+			.player_cd {
+				aspect-ratio: 1/1;
+				height: 70vh;
+				background-image: url("Test_Cover_2.png");
+				background-size: contain;
+				filter: contrast(120%) brightness(110%) saturate(110%);
+    			position: absolute;
+				top: 2.5vh;
+				left: 2.5vh;
+			}
+			
+		</style>
+	</head>
+	<body>
+		<div id="player">
+			<div class="player_cd"></div>
+		</div>
+
+	  	<script src="miniplayer.js"></script>
+	  	<script>
+	    	var m = new Microne(document.getElementById('player'))
+	    	m.source('M_Treat_Me_Right_ReMaster.mp3')
+	  	</script>
+	</body>
+</html>

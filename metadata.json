@@ -1,0 +1,38 @@
+{
+  "description": "INSERT YOUR NFT DESCRIPTION HERE", 
+  "image": "ipfs://INSERT_YOUR_PLACEHOLDER_PREVIEW_IMAGE_CID_HERE", 
+  "animation_url": "ipfs://INSERT_CID_FOR_YOUR_SRC_DIRECTORY_HERE",
+  "name": "INSERT YOUR NFT NAME HERE",
+  "artist": "OPTIONAL",
+  "royalty_percentage": 10,
+  "attributes": [
+  	{
+  		"trait_type": "TRAIT 1",
+  		"value": "EXAMPLE"
+  	},
+  	{
+  		"trait_type": "TRAIT 2",
+  		"value": "EXAMPLE"
+  	},
+  	{
+  		"trait_type": "TRAIT 3",
+  		"value": "EXAMPLE"
+  	},
+  	{
+  		"trait_type": "TRAIT 4",
+  		"value": "EXAMPLE"
+  	},
+  	{
+  		"trait_type": "TRAIT 5",
+  		"value": "EXAMPLE"
+  	},
+  	{
+  		"trait_type": "TRAIT 6",
+  		"value": "EXAMPLE"
+  	},
+  	{
+  		"trait_type": "TRAIT 7",
+  		"value": "EXAMPLE"
+  	}
+  ]
+}
