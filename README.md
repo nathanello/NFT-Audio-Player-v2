@@ -1,7 +1,7 @@
 # NFT-Audio-Player-v2
 A template for minting single audio tracks.
 
-Here's an example of what they player looks like >> https://imgur.com/VzyIGzY
+Here's an example of what the player looks like >> https://imgur.com/VzyIGzY
 
 The following files will need to be replaced;
 1. M_Background_02.gif (optional background)
