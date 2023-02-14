@@ -1,6 +1,8 @@
 # NFT-Audio-Player-v2
 A template for minting audio tracks as singles.
 
+Here's an example of what they player looks like >> https://imgur.com/VzyIGzY
+
 The following files will need to be replaced;
 1. M_Background_02.gif (optional background)
 2. M_Treat_Me_Right_ReMaster.mp3 (audio track)
