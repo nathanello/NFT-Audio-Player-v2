@@ -18,3 +18,5 @@ If you're uploading to Pinata to mint this NFT please upload all files into a /s
 If you're minting on GameStop's marketplace, zip all of these files and then upload the .zip (you will need interactive NFT minting privelages enabled on your creator account first).
 
 I've also included a metadata.json file example in this repo, do NOT upload this within the same folder (on Pinata) or within your .zip (on GameStop's marketplace). You can adjust the value on line 7 in the metadata.json file from 0-10, this is the royalty you'll collect on secondary market sales (this is only applicapble if you're minting outside of GameStop's marketplace).
+
+Updated 2/15/2022 to include the Microne license, this is the original JS player written by Hunor Karamán that I've modified. If you'd like to check out the original Microne player, you can find that here >> https://github.com/kodedninja/microne
